@@ -1,0 +1,20 @@
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\bin\Debug\Math Tools.exe.config
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\bin\Debug\Math Tools.exe
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\bin\Debug\Math Tools.pdb
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math Tools.csprojResolveAssemblyReference.cache
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Properties.Resources.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math Tools.csproj.GenerateResource.Cache
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math Tools.csproj.CoreCompileInputs.cache
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math Tools.exe
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math Tools.pdb
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Form1.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Number_Tools.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Geometric_Tools.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Trails_Donbale.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Donbale_Hendesi.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Donbale_Hesabi.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Fibonachi.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Simple_Calculator.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Number_Sort.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Triangle_Utils.resources
+C:\Users\sinap\OneDrive\Desktop\Programing\C#\Navid Project\Math Tools\obj\Debug\Math_Tools.Circle_Utils.resources
